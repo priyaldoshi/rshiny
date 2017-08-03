@@ -23,7 +23,3 @@ ui <- dashboardPage(
     )
   )
 )
-
-
-shinyApp(ui, server)
-runGitHub(username = 'priyaldoshi',repo = 'rshiny')
