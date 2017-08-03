@@ -1,0 +1,15 @@
+L1,L2,L3,L4,A1,A2,A3,A4
+Castings&Forgings,Light & Medium Ferrous Castings,Pulley,Pulley,Catsing.Weight.,Machining.Weight.,No.of.Groves.,Machining.Cycle.Time
+Castings&Forgings,Light & Medium Ferrous Castings,Covers & Small Housings,Covers&Small Housings Others,Catsing.Weight.,Machining.Weight.,Spcial.Tool.Cost,Machining.Cycle.Time
+Vehicle Properiotory,Vehicle Properiotory 1,Braking Sytem,Caliper,Catsing.Weight.,Machining.Weight.,Pad.Volume,
+"Axle,Transmissions","Axle,Transmissions1","Axle,Transmissions3","Axle,Transmissions7",Catsing.Weight.,Machining.Weight.,Machining.Cycle.Time,
+"Axle,Transmissions","Axle,Transmissions1","Axle,Transmissions3","Axle,Transmissions8",Catsing.Weight.,Machining.Weight.,Machining.Cycle.Time,
+"Axle,Transmissions","Axle,Transmissions1","Axle,Transmissions4","Axle,Transmissions9",Catsing.Weight.,Machining.Weight.,Machining.Cycle.Time,
+"Axle,Transmissions","Axle,Transmissions2","Axle,Transmissions5","Axle,Transmissions10",Catsing.Weight.,Machining.Weight.,,
+"Axle,Transmissions","Axle,Transmissions2","Axle,Transmissions6","Axle,Transmissions11",Catsing.Weight.,Machining.Weight.,,
+"BIW , Mechanisms","BIW , Mechanisms .A","BIW , Mechanisms .C","BIW , Mechanisms .X",Catsing.Weight.,Machining.Weight.,Machining.Cycle.Time,
+"BIW , Mechanisms","BIW , Mechanisms .A","BIW , Mechanisms .D","BIW , Mechanisms .Y",Catsing.Weight.,Machining.Weight.,Machining.Cycle.Time,
+"BIW , Mechanisms","BIW , Mechanisms .B","BIW , Mechanisms .E","BIW , Mechanisms .Z",Catsing.Weight.,Machining.Weight.,Spcial.Tool.Cost,
+Trims.Plastics,Trims.Plastics . X,Trims.Plastics . X1,Trims.Plastics . X3,Catsing.Weight.,Machining.Weight.,,
+Trims.Plastics,Trims.Plastics . X,Trims.Plastics . X1,Trims.Plastics . X4,Catsing.Weight.,Machining.Weight.,,
+Trims.Plastics,Trims.Plastics . X,Trims.Plastics . X2,Trims.Plastics . X5,Catsing.Weight.,Machining.Weight.,Pad.Volume,
